@@ -35,6 +35,10 @@ Anubis Variant:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AnubisVariant.png "Anubis Variant")
 
+Arcane Stealer: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Arcane.png "Arcane Stealer")
+
 Ares: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ares.png "Ares")
@@ -106,6 +110,10 @@ CodePro:
 Comet Bot: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/CometBot.png "Comet Bot")
+
+CryptBot: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/CryptBot.png "CryptBot")
 
 Cyborg: 
 

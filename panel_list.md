@@ -3,6 +3,7 @@ Agent Tesla
 Alina 
 Amadey  
 Anubis Variant  
+Arcane Stealer  
 Ares
 Arkei  
 Arkeiv9  
@@ -21,6 +22,7 @@ Citadel
 CoalaBot  
 CodePro  
 Comet Bot  
+CryptBot  
 Cyborg  
 Cythosia  
 DarkVNC  
